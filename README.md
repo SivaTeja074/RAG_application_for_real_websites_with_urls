@@ -36,13 +36,13 @@ RAG_application_for_real_websites_with_urls/
 ## ⚙️ Tech Stack
 
 - **Language:** Python 3.x  
-- **Libraries:** **requests –** HTTP requests for fetching websites
-                 **beautifulsoup4 –** HTML parsing and text extraction
-                 **streamlit –** Web UI for interaction
-                 **python-dotenv –** Environment variable management
-                 **google-generativeai –** Google Gemini API for text generation
+- **Libraries:**  
+  - **requests** – HTTP requests for fetching websites  
+  - **beautifulsoup4** – HTML parsing and text extraction  
+  - **streamlit** – Web UI for interaction  
+  - **python-dotenv** – Environment variable management  
+  - **google-generativeai** – Google Gemini API for text generation  
 - **Deployment:** Local Streamlit server
-
 ---
 
 
